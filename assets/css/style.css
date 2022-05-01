@@ -3,11 +3,9 @@ body {
   color: #ffffff;
   font-family: Barlow;
 }
-
 .hrClass {
   margin-top: 2rem;
 }
-
 .my-nav {
   z-index: 10;
   width: 100%;
@@ -29,11 +27,9 @@ body {
   text-decoration: none;
   color: #ffffff;
 }
-
 section {
   padding-top: 64px !important;
 }
-
 /* Small devices (landscape phones, 576px and up) */
 @media (max-width: 576px) {
   .card-img-top {
